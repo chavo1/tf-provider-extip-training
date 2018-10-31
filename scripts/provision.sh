@@ -41,7 +41,3 @@ which terraform &>/dev/null || {
 which git unzip &>/dev/null || {
   apt-get install -y git unzip
 }
-# install git
-which vim unzip &>/dev/null || {
-  apt-get install -y vim unzip
-}
