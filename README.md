@@ -15,8 +15,8 @@
 vagrant up
 ```
 3. At the end of the proccess will be printed the current external IP as a data source.
-#### Needed software could be found in:
+#### Needed software with notes could be found as follow:
 - [script/provision.sh](https://github.com/chavo1/vagrant-go/blob/master/scripts/provision.sh)
-#### How it is compilled:
+#### How it is compilled with notes:
 - [script/plugin.sh](https://github.com/chavo1/vagrant-go/blob/master/scripts/plugin.sh)
 
