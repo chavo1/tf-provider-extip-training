@@ -1,4 +1,4 @@
-# This repo contains sample how to run locally a custom plugin.
+# Training
 
 ### Requirments
 
