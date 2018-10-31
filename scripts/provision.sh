@@ -38,6 +38,10 @@ which terraform &>/dev/null || {
   popd
 }
 # install git
-which git unzip &>/dev/null || {
-  apt-get install -y git unzip
+which git &>/dev/null || {
+  apt-get install -y git 
+}
+# install ruby
+which ruby ruby-dev &>/dev/null || {
+  apt-get install -y ruby ruby-dev
 }
